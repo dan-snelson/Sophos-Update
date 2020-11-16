@@ -62,3 +62,7 @@ Jamf Support confirmed this is the current expected behavior and recommended cre
 ## Script
 
 [SophosUpdate.sh](SophosUpdate.sh)
+
+This script is compatible with Jamf Pro and can be pasted directly — without modification — into a new Script window in Jamf Pro (no additional parameters need to be specified).
+
+Add the script to your Sophos Endpoint policy to execute **After** the installation package.
